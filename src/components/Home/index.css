@@ -1,0 +1,7 @@
+.home-bg-container-loadingView {
+  display: flex;
+  background-color: #000000;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}

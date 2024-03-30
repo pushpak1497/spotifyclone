@@ -1,0 +1,38 @@
+.not-found-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 100vw;
+  min-height: 100vh;
+  background-color: #181818;
+}
+.not-found-app-container {
+  display: flex;
+}
+
+.heading-not-found {
+  font-family: Inter;
+  font-size: 400px;
+  font-weight: 800;
+
+  text-align: left;
+  background: linear-gradient(
+    359.08deg,
+    rgba(0, 188, 67, 0) -32.43%,
+    #1ed760 99.35%
+  );
+  margin: 0px;
+}
+.text-not-found {
+  color: #fff;
+}
+.back-button-container {
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+.text-not-found-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

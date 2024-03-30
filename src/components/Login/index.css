@@ -1,0 +1,50 @@
+.bg-container {
+  background-image: url('https://res.cloudinary.com/dfhjlaswm/image/upload/v1711778894/login-bg-img_qhjlzx.png');
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-color: #181818;
+  border-radius: 12px;
+  width: 456px;
+  height: 430px;
+  text-align: center;
+  padding: 20px;
+}
+.error-msg {
+  color: red;
+}
+.input {
+  width: 401px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+}
+.button {
+  padding: 12px 32px 12px 32px;
+  color: #fff;
+  background-color: #1db954;
+  width: 401px;
+  border-radius: 4px;
+  margin-top: 10px;
+  border: 0px;
+}
+.heading {
+  color: #fff;
+  text-align: center;
+}
+.label-text {
+  margin-bottom: 5px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  align-items: flex-start;
+  margin: 10px;
+}
